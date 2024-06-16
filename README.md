@@ -9,7 +9,7 @@ permitindo acesso a endpoints especificos de acordo com o nível de permissão d
 
 <img width="2583" alt="diagrama" src="https://github.com/Al-Felipe/Sistema-Autenticacao-Autorizacao/assets/105646899/6d754553-e9d2-4501-b3cd-eaf6da7c98e3">
 
-## APIs disponiveis para utilização
+## APIs disponíveis para utilização
 
 **POST** /login: Endpoint de autenticação para obter token JWT.
 
